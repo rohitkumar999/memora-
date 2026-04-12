@@ -1,0 +1,789 @@
+{
+  "users": [
+    {
+      "id": "1775938651347-27907",
+      "name": "rohit",
+      "email": "student@college.in",
+      "password": "7618269693"
+    },
+    {
+      "id": "1775942696706-65114",
+      "name": "rohit",
+      "email": "studentt@college.in",
+      "password": "7618269693"
+    },
+    {
+      "id": "1776010560481-27032",
+      "name": "bhalu",
+      "email": "studentttt@colllege.in",
+      "password": "7618269693"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "24e036c64dca30f0dc8f6e856de87b8cca3023a828309f53",
+      "userId": "1775938651347-27907"
+    },
+    {
+      "token": "36f41ae1251efcac3f775cb4a3057f7779d7c96a32334c78",
+      "userId": "1776010560481-27032"
+    }
+  ],
+  "topics": [
+    {
+      "id": "1775938651352-72277",
+      "userId": "1775938651347-27907",
+      "subject": "DBMS",
+      "name": "Normalization",
+      "plannedDate": "2026-04-06T20:17:31.352Z",
+      "planLabel": "Pick Date",
+      "lastStudiedAt": "2026-04-11T21:32:25.472Z",
+      "nextReviewDate": "2026-04-14T21:32:25.472Z",
+      "retention": 82,
+      "status": "Good",
+      "createdAt": "2026-04-11T20:17:31.353Z"
+    },
+    {
+      "id": "1775938651353-44180",
+      "userId": "1775938651347-27907",
+      "subject": "OS",
+      "name": "Process Scheduling",
+      "plannedDate": "2026-04-09T20:17:31.353Z",
+      "planLabel": "Pick Date",
+      "lastStudiedAt": "2026-04-11T21:31:51.269Z",
+      "nextReviewDate": "2026-04-14T21:31:51.269Z",
+      "retention": 82,
+      "status": "Good",
+      "createdAt": "2026-04-11T20:17:31.353Z"
+    },
+    {
+      "id": "1775938651353-51306",
+      "userId": "1775938651347-27907",
+      "subject": "Networks",
+      "name": "TCP/IP",
+      "plannedDate": "2026-04-08T20:17:31.353Z",
+      "planLabel": "Pick Date",
+      "lastStudiedAt": "2026-04-08T20:17:31.353Z",
+      "nextReviewDate": "2026-04-09T20:17:31.353Z",
+      "retention": 82,
+      "status": "Good",
+      "createdAt": "2026-04-11T20:17:31.353Z"
+    },
+    {
+      "id": "1775938651353-38070",
+      "userId": "1775938651347-27907",
+      "subject": "Algorithms",
+      "name": "Sorting",
+      "plannedDate": "2026-04-03T20:17:31.353Z",
+      "planLabel": "Pick Date",
+      "lastStudiedAt": "2026-04-11T21:32:24.788Z",
+      "nextReviewDate": "2026-04-14T21:32:24.788Z",
+      "retention": 82,
+      "status": "Good",
+      "createdAt": "2026-04-11T20:17:31.353Z"
+    },
+    {
+      "id": "1775938651353-89512",
+      "userId": "1775938651347-27907",
+      "subject": "ML",
+      "name": "Decision Trees",
+      "plannedDate": "2026-04-10T20:17:31.353Z",
+      "planLabel": "Pick Date",
+      "lastStudiedAt": "2026-04-11T22:57:29.396Z",
+      "nextReviewDate": "2026-04-14T22:57:29.396Z",
+      "retention": 82,
+      "status": "Good",
+      "createdAt": "2026-04-11T20:17:31.353Z"
+    },
+    {
+      "id": "1775942696713-85474",
+      "userId": "1775942696706-65114",
+      "subject": "DBMS",
+      "name": "Normalization",
+      "plannedDate": "2026-04-06T21:24:56.713Z",
+      "planLabel": "Pick Date",
+      "lastStudiedAt": "2026-04-12T05:26:21.981Z",
+      "nextReviewDate": "2026-04-15T05:26:21.981Z",
+      "retention": 82,
+      "status": "Good",
+      "createdAt": "2026-04-11T21:24:56.714Z"
+    },
+    {
+      "id": "1775942696714-91747",
+      "userId": "1775942696706-65114",
+      "subject": "OS",
+      "name": "Process Scheduling",
+      "plannedDate": "2026-04-09T21:24:56.714Z",
+      "planLabel": "Pick Date",
+      "lastStudiedAt": "2026-04-09T21:24:56.714Z",
+      "nextReviewDate": "2026-04-10T21:24:56.714Z",
+      "retention": 82,
+      "status": "Good",
+      "createdAt": "2026-04-11T21:24:56.714Z"
+    },
+    {
+      "id": "1775942696714-44332",
+      "userId": "1775942696706-65114",
+      "subject": "Networks",
+      "name": "TCP/IP",
+      "plannedDate": "2026-04-08T21:24:56.714Z",
+      "planLabel": "Pick Date",
+      "lastStudiedAt": "2026-04-08T21:24:56.714Z",
+      "nextReviewDate": "2026-04-09T21:24:56.714Z",
+      "retention": 82,
+      "status": "Good",
+      "createdAt": "2026-04-11T21:24:56.714Z"
+    },
+    {
+      "id": "1775942696714-72336",
+      "userId": "1775942696706-65114",
+      "subject": "Algorithms",
+      "name": "Sorting",
+      "plannedDate": "2026-04-03T21:24:56.714Z",
+      "planLabel": "Pick Date",
+      "lastStudiedAt": "2026-04-11T21:25:32.495Z",
+      "nextReviewDate": "2026-04-14T21:25:32.495Z",
+      "retention": 82,
+      "status": "Good",
+      "createdAt": "2026-04-11T21:24:56.714Z"
+    },
+    {
+      "id": "1775942696714-71123",
+      "userId": "1775942696706-65114",
+      "subject": "ML",
+      "name": "Decision Trees",
+      "plannedDate": "2026-04-10T21:24:56.714Z",
+      "planLabel": "Pick Date",
+      "lastStudiedAt": "2026-04-12T05:09:06.538Z",
+      "nextReviewDate": "2026-04-15T05:09:06.538Z",
+      "retention": 82,
+      "status": "Good",
+      "createdAt": "2026-04-11T21:24:56.714Z"
+    },
+    {
+      "id": "1776010560491-98637",
+      "userId": "1776010560481-27032",
+      "subject": "DBMS",
+      "name": "Normalization",
+      "plannedDate": "2026-04-07T16:16:00.491Z",
+      "planLabel": "Pick Date",
+      "lastStudiedAt": "2026-04-12T16:17:27.669Z",
+      "nextReviewDate": "2026-04-15T16:17:27.669Z",
+      "retention": 82,
+      "status": "Good",
+      "createdAt": "2026-04-12T16:16:00.492Z"
+    },
+    {
+      "id": "1776010560492-4545",
+      "userId": "1776010560481-27032",
+      "subject": "OS",
+      "name": "Process Scheduling",
+      "plannedDate": "2026-04-10T16:16:00.492Z",
+      "planLabel": "Pick Date",
+      "lastStudiedAt": "2026-04-12T16:18:10.392Z",
+      "nextReviewDate": "2026-04-15T16:18:10.392Z",
+      "retention": 82,
+      "status": "Good",
+      "createdAt": "2026-04-12T16:16:00.492Z"
+    },
+    {
+      "id": "1776010560492-10102",
+      "userId": "1776010560481-27032",
+      "subject": "Networks",
+      "name": "TCP/IP",
+      "plannedDate": "2026-04-09T16:16:00.492Z",
+      "planLabel": "Pick Date",
+      "lastStudiedAt": "2026-04-09T16:16:00.492Z",
+      "nextReviewDate": "2026-04-10T16:16:00.492Z",
+      "retention": 82,
+      "status": "Good",
+      "createdAt": "2026-04-12T16:16:00.492Z"
+    },
+    {
+      "id": "1776010560492-42250",
+      "userId": "1776010560481-27032",
+      "subject": "Algorithms",
+      "name": "Sorting",
+      "plannedDate": "2026-04-04T16:16:00.492Z",
+      "planLabel": "Pick Date",
+      "lastStudiedAt": "2026-04-12T16:18:43.298Z",
+      "nextReviewDate": "2026-04-15T16:18:43.298Z",
+      "retention": 82,
+      "status": "Good",
+      "createdAt": "2026-04-12T16:16:00.492Z"
+    },
+    {
+      "id": "1776010560493-68634",
+      "userId": "1776010560481-27032",
+      "subject": "ML",
+      "name": "Decision Trees",
+      "plannedDate": "2026-04-11T16:16:00.493Z",
+      "planLabel": "Pick Date",
+      "lastStudiedAt": "2026-04-11T16:16:00.493Z",
+      "nextReviewDate": "2026-04-12T16:16:00.493Z",
+      "retention": 82,
+      "status": "Good",
+      "createdAt": "2026-04-12T16:16:00.493Z"
+    }
+  ],
+  "reminders": [
+    {
+      "id": "1775938651353-96074",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651352-72277",
+      "subject": "DBMS",
+      "topicName": "Normalization",
+      "dueDate": "2026-04-07T20:17:31.352Z",
+      "state": "done",
+      "generatedBy": "ml-engine",
+      "createdAt": "2026-04-11T20:17:31.353Z",
+      "completedAt": "2026-04-11T21:32:25.472Z",
+      "undoSnapshot": {
+        "previousLastStudiedAt": "2026-04-06T20:17:31.352Z",
+        "previousNextReviewDate": "2026-04-07T20:17:31.352Z",
+        "previousStatus": "Moderate",
+        "previousRetention": 58,
+        "studyLogId": "1775943145472-97694"
+      }
+    },
+    {
+      "id": "1775938651353-42458",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651353-44180",
+      "subject": "OS",
+      "topicName": "Process Scheduling",
+      "dueDate": "2026-04-10T20:17:31.353Z",
+      "state": "done",
+      "generatedBy": "ml-engine",
+      "createdAt": "2026-04-11T20:17:31.353Z",
+      "completedAt": "2026-04-11T21:31:49.757Z"
+    },
+    {
+      "id": "1775938651353-76239",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651353-51306",
+      "subject": "Networks",
+      "topicName": "TCP/IP",
+      "dueDate": "2026-04-09T20:17:31.353Z",
+      "state": "todo",
+      "generatedBy": "ml-engine",
+      "createdAt": "2026-04-11T20:17:31.353Z"
+    },
+    {
+      "id": "1775938651353-65042",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651353-38070",
+      "subject": "Algorithms",
+      "topicName": "Sorting",
+      "dueDate": "2026-04-04T20:17:31.353Z",
+      "state": "done",
+      "generatedBy": "ml-engine",
+      "createdAt": "2026-04-11T20:17:31.353Z",
+      "undoSnapshot": {
+        "previousLastStudiedAt": "2026-04-11T21:31:43.838Z",
+        "previousNextReviewDate": "2026-04-14T21:31:43.838Z",
+        "previousStatus": "Good",
+        "previousRetention": 82,
+        "studyLogId": "1775943144788-48402"
+      },
+      "completedAt": "2026-04-11T21:32:24.788Z"
+    },
+    {
+      "id": "1775938651353-87551",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651353-89512",
+      "subject": "ML",
+      "topicName": "Decision Trees",
+      "dueDate": "2026-04-11T20:17:31.353Z",
+      "state": "done",
+      "generatedBy": "ml-engine",
+      "createdAt": "2026-04-11T20:17:31.353Z",
+      "completedAt": "2026-04-11T21:31:58.838Z"
+    },
+    {
+      "id": "1775942696714-48281",
+      "userId": "1775942696706-65114",
+      "topicId": "1775942696713-85474",
+      "subject": "DBMS",
+      "topicName": "Normalization",
+      "dueDate": "2026-04-07T21:24:56.713Z",
+      "state": "done",
+      "generatedBy": "ml-engine",
+      "createdAt": "2026-04-11T21:24:56.714Z",
+      "completedAt": "2026-04-11T21:25:34.676Z",
+      "undoSnapshot": {
+        "previousLastStudiedAt": "2026-04-06T21:24:56.713Z",
+        "previousNextReviewDate": "2026-04-07T21:24:56.713Z",
+        "previousStatus": "Moderate",
+        "previousRetention": 58,
+        "studyLogId": "1775942734676-36534"
+      }
+    },
+    {
+      "id": "1775942696714-43880",
+      "userId": "1775942696706-65114",
+      "topicId": "1775942696714-91747",
+      "subject": "OS",
+      "topicName": "Process Scheduling",
+      "dueDate": "2026-04-10T21:24:56.714Z",
+      "state": "todo",
+      "generatedBy": "ml-engine",
+      "createdAt": "2026-04-11T21:24:56.714Z"
+    },
+    {
+      "id": "1775942696714-27980",
+      "userId": "1775942696706-65114",
+      "topicId": "1775942696714-44332",
+      "subject": "Networks",
+      "topicName": "TCP/IP",
+      "dueDate": "2026-04-09T21:24:56.714Z",
+      "state": "todo",
+      "generatedBy": "ml-engine",
+      "createdAt": "2026-04-11T21:24:56.714Z"
+    },
+    {
+      "id": "1775942696714-74446",
+      "userId": "1775942696706-65114",
+      "topicId": "1775942696714-72336",
+      "subject": "Algorithms",
+      "topicName": "Sorting",
+      "dueDate": "2026-04-04T21:24:56.714Z",
+      "state": "done",
+      "generatedBy": "ml-engine",
+      "createdAt": "2026-04-11T21:24:56.714Z",
+      "completedAt": "2026-04-11T21:25:32.495Z",
+      "undoSnapshot": {
+        "previousLastStudiedAt": "2026-04-03T21:24:56.714Z",
+        "previousNextReviewDate": "2026-04-04T21:24:56.714Z",
+        "previousStatus": "At Risk",
+        "previousRetention": 36,
+        "studyLogId": "1775942732495-75740"
+      }
+    },
+    {
+      "id": "1775942696714-24400",
+      "userId": "1775942696706-65114",
+      "topicId": "1775942696714-71123",
+      "subject": "ML",
+      "topicName": "Decision Trees",
+      "dueDate": "2026-04-11T21:24:56.714Z",
+      "state": "done",
+      "generatedBy": "ml-engine",
+      "createdAt": "2026-04-11T21:24:56.714Z",
+      "completedAt": "2026-04-12T05:09:06.025Z"
+    },
+    {
+      "id": "1776010560493-22312",
+      "userId": "1776010560481-27032",
+      "topicId": "1776010560491-98637",
+      "subject": "DBMS",
+      "topicName": "Normalization",
+      "dueDate": "2026-04-08T16:16:00.491Z",
+      "state": "done",
+      "generatedBy": "ml-engine",
+      "createdAt": "2026-04-12T16:16:00.493Z",
+      "completedAt": "2026-04-12T16:17:27.669Z"
+    },
+    {
+      "id": "1776010560495-84221",
+      "userId": "1776010560481-27032",
+      "topicId": "1776010560492-4545",
+      "subject": "OS",
+      "topicName": "Process Scheduling",
+      "dueDate": "2026-04-11T16:16:00.492Z",
+      "state": "done",
+      "generatedBy": "ml-engine",
+      "createdAt": "2026-04-12T16:16:00.495Z",
+      "completedAt": "2026-04-12T16:18:10.392Z"
+    },
+    {
+      "id": "1776010560495-67345",
+      "userId": "1776010560481-27032",
+      "topicId": "1776010560492-10102",
+      "subject": "Networks",
+      "topicName": "TCP/IP",
+      "dueDate": "2026-04-10T16:16:00.492Z",
+      "state": "todo",
+      "generatedBy": "ml-engine",
+      "createdAt": "2026-04-12T16:16:00.495Z"
+    },
+    {
+      "id": "1776010560495-9611",
+      "userId": "1776010560481-27032",
+      "topicId": "1776010560492-42250",
+      "subject": "Algorithms",
+      "topicName": "Sorting",
+      "dueDate": "2026-04-05T16:16:00.492Z",
+      "state": "done",
+      "generatedBy": "ml-engine",
+      "createdAt": "2026-04-12T16:16:00.495Z",
+      "completedAt": "2026-04-12T16:18:43.298Z",
+      "undoSnapshot": {
+        "previousLastStudiedAt": "2026-04-04T16:16:00.492Z",
+        "previousNextReviewDate": "2026-04-05T16:16:00.492Z",
+        "previousStatus": "At Risk",
+        "previousRetention": 36,
+        "studyLogId": "1776010723298-4164"
+      }
+    },
+    {
+      "id": "1776010560495-81411",
+      "userId": "1776010560481-27032",
+      "topicId": "1776010560493-68634",
+      "subject": "ML",
+      "topicName": "Decision Trees",
+      "dueDate": "2026-04-12T16:16:00.493Z",
+      "state": "todo",
+      "generatedBy": "ml-engine",
+      "createdAt": "2026-04-12T16:16:00.495Z"
+    }
+  ],
+  "studyLogs": [
+    {
+      "id": "1775938651353-77442",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651352-72277",
+      "subject": "DBMS",
+      "topicName": "Normalization",
+      "studiedAt": "2026-04-06T20:17:31.352Z"
+    },
+    {
+      "id": "1775938651353-29906",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651353-44180",
+      "subject": "OS",
+      "topicName": "Process Scheduling",
+      "studiedAt": "2026-04-09T20:17:31.353Z"
+    },
+    {
+      "id": "1775938651353-66151",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651353-51306",
+      "subject": "Networks",
+      "topicName": "TCP/IP",
+      "studiedAt": "2026-04-08T20:17:31.353Z"
+    },
+    {
+      "id": "1775938651353-59039",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651353-38070",
+      "subject": "Algorithms",
+      "topicName": "Sorting",
+      "studiedAt": "2026-04-03T20:17:31.353Z"
+    },
+    {
+      "id": "1775938651353-45423",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651353-89512",
+      "subject": "ML",
+      "topicName": "Decision Trees",
+      "studiedAt": "2026-04-10T20:17:31.353Z"
+    },
+    {
+      "id": "1775938694497-94369",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651353-38070",
+      "subject": "Algorithms",
+      "topicName": "Sorting",
+      "studiedAt": "2026-04-11T20:18:14.497Z"
+    },
+    {
+      "id": "1775942696714-68319",
+      "userId": "1775942696706-65114",
+      "topicId": "1775942696713-85474",
+      "subject": "DBMS",
+      "topicName": "Normalization",
+      "studiedAt": "2026-04-06T21:24:56.713Z"
+    },
+    {
+      "id": "1775942696714-21105",
+      "userId": "1775942696706-65114",
+      "topicId": "1775942696714-91747",
+      "subject": "OS",
+      "topicName": "Process Scheduling",
+      "studiedAt": "2026-04-09T21:24:56.714Z"
+    },
+    {
+      "id": "1775942696714-26568",
+      "userId": "1775942696706-65114",
+      "topicId": "1775942696714-44332",
+      "subject": "Networks",
+      "topicName": "TCP/IP",
+      "studiedAt": "2026-04-08T21:24:56.714Z"
+    },
+    {
+      "id": "1775942696714-40809",
+      "userId": "1775942696706-65114",
+      "topicId": "1775942696714-72336",
+      "subject": "Algorithms",
+      "topicName": "Sorting",
+      "studiedAt": "2026-04-03T21:24:56.714Z"
+    },
+    {
+      "id": "1775942696714-93332",
+      "userId": "1775942696706-65114",
+      "topicId": "1775942696714-71123",
+      "subject": "ML",
+      "topicName": "Decision Trees",
+      "studiedAt": "2026-04-10T21:24:56.714Z"
+    },
+    {
+      "id": "1775942732495-75740",
+      "userId": "1775942696706-65114",
+      "topicId": "1775942696714-72336",
+      "subject": "Algorithms",
+      "topicName": "Sorting",
+      "studiedAt": "2026-04-11T21:25:32.495Z"
+    },
+    {
+      "id": "1775942734676-36534",
+      "userId": "1775942696706-65114",
+      "topicId": "1775942696713-85474",
+      "subject": "DBMS",
+      "topicName": "Normalization",
+      "studiedAt": "2026-04-11T21:25:34.676Z"
+    },
+    {
+      "id": "1775943101062-15439",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651353-38070",
+      "subject": "Algorithms",
+      "topicName": "Sorting",
+      "studiedAt": "2026-04-11T21:31:41.062Z"
+    },
+    {
+      "id": "1775943101621-13910",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651353-38070",
+      "subject": "Algorithms",
+      "topicName": "Sorting",
+      "studiedAt": "2026-04-11T21:31:41.621Z"
+    },
+    {
+      "id": "1775943102254-77625",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651353-38070",
+      "subject": "Algorithms",
+      "topicName": "Sorting",
+      "studiedAt": "2026-04-11T21:31:42.254Z"
+    },
+    {
+      "id": "1775943102772-24137",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651353-38070",
+      "subject": "Algorithms",
+      "topicName": "Sorting",
+      "studiedAt": "2026-04-11T21:31:42.772Z"
+    },
+    {
+      "id": "1775943103105-80079",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651353-38070",
+      "subject": "Algorithms",
+      "topicName": "Sorting",
+      "studiedAt": "2026-04-11T21:31:43.105Z"
+    },
+    {
+      "id": "1775943103623-87073",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651353-38070",
+      "subject": "Algorithms",
+      "topicName": "Sorting",
+      "studiedAt": "2026-04-11T21:31:43.623Z"
+    },
+    {
+      "id": "1775943103838-41650",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651353-38070",
+      "subject": "Algorithms",
+      "topicName": "Sorting",
+      "studiedAt": "2026-04-11T21:31:43.838Z"
+    },
+    {
+      "id": "1775943109757-11441",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651353-44180",
+      "subject": "OS",
+      "topicName": "Process Scheduling",
+      "studiedAt": "2026-04-11T21:31:49.757Z"
+    },
+    {
+      "id": "1775943110756-60136",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651353-44180",
+      "subject": "OS",
+      "topicName": "Process Scheduling",
+      "studiedAt": "2026-04-11T21:31:50.756Z"
+    },
+    {
+      "id": "1775943111054-93432",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651353-44180",
+      "subject": "OS",
+      "topicName": "Process Scheduling",
+      "studiedAt": "2026-04-11T21:31:51.054Z"
+    },
+    {
+      "id": "1775943111269-67808",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651353-44180",
+      "subject": "OS",
+      "topicName": "Process Scheduling",
+      "studiedAt": "2026-04-11T21:31:51.269Z"
+    },
+    {
+      "id": "1775943118838-35763",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651353-89512",
+      "subject": "ML",
+      "topicName": "Decision Trees",
+      "studiedAt": "2026-04-11T21:31:58.838Z"
+    },
+    {
+      "id": "1775943144788-48402",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651353-38070",
+      "subject": "Algorithms",
+      "topicName": "Sorting",
+      "studiedAt": "2026-04-11T21:32:24.788Z"
+    },
+    {
+      "id": "1775943145472-97694",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651352-72277",
+      "subject": "DBMS",
+      "topicName": "Normalization",
+      "studiedAt": "2026-04-11T21:32:25.472Z"
+    },
+    {
+      "id": "1775948249396-36537",
+      "userId": "1775938651347-27907",
+      "topicId": "1775938651353-89512",
+      "subject": "ML",
+      "topicName": "Decision Trees",
+      "studiedAt": "2026-04-11T22:57:29.396Z"
+    },
+    {
+      "id": "1775970546025-49779",
+      "userId": "1775942696706-65114",
+      "topicId": "1775942696714-71123",
+      "subject": "ML",
+      "topicName": "Decision Trees",
+      "studiedAt": "2026-04-12T05:09:06.025Z"
+    },
+    {
+      "id": "1775970546538-3167",
+      "userId": "1775942696706-65114",
+      "topicId": "1775942696714-71123",
+      "subject": "ML",
+      "topicName": "Decision Trees",
+      "studiedAt": "2026-04-12T05:09:06.538Z"
+    },
+    {
+      "id": "1775971581982-6960",
+      "userId": "1775942696706-65114",
+      "topicId": "1775942696713-85474",
+      "subject": "DBMS",
+      "topicName": "Normalization",
+      "studiedAt": "2026-04-12T05:26:21.981Z"
+    },
+    {
+      "id": "1776010560492-15290",
+      "userId": "1776010560481-27032",
+      "topicId": "1776010560491-98637",
+      "subject": "DBMS",
+      "topicName": "Normalization",
+      "studiedAt": "2026-04-07T16:16:00.491Z"
+    },
+    {
+      "id": "1776010560492-18831",
+      "userId": "1776010560481-27032",
+      "topicId": "1776010560492-4545",
+      "subject": "OS",
+      "topicName": "Process Scheduling",
+      "studiedAt": "2026-04-10T16:16:00.492Z"
+    },
+    {
+      "id": "1776010560492-97949",
+      "userId": "1776010560481-27032",
+      "topicId": "1776010560492-10102",
+      "subject": "Networks",
+      "topicName": "TCP/IP",
+      "studiedAt": "2026-04-09T16:16:00.492Z"
+    },
+    {
+      "id": "1776010560492-29723",
+      "userId": "1776010560481-27032",
+      "topicId": "1776010560492-42250",
+      "subject": "Algorithms",
+      "topicName": "Sorting",
+      "studiedAt": "2026-04-04T16:16:00.492Z"
+    },
+    {
+      "id": "1776010560493-76218",
+      "userId": "1776010560481-27032",
+      "topicId": "1776010560493-68634",
+      "subject": "ML",
+      "topicName": "Decision Trees",
+      "studiedAt": "2026-04-11T16:16:00.493Z"
+    },
+    {
+      "id": "1776010647670-95993",
+      "userId": "1776010560481-27032",
+      "topicId": "1776010560491-98637",
+      "subject": "DBMS",
+      "topicName": "Normalization",
+      "studiedAt": "2026-04-12T16:17:27.669Z"
+    },
+    {
+      "id": "1776010690392-83085",
+      "userId": "1776010560481-27032",
+      "topicId": "1776010560492-4545",
+      "subject": "OS",
+      "topicName": "Process Scheduling",
+      "studiedAt": "2026-04-12T16:18:10.392Z"
+    },
+    {
+      "id": "1776010723298-4164",
+      "userId": "1776010560481-27032",
+      "topicId": "1776010560492-42250",
+      "subject": "Algorithms",
+      "topicName": "Sorting",
+      "studiedAt": "2026-04-12T16:18:43.298Z"
+    }
+  ],
+  "lastActions": [
+    {
+      "userId": "1775942696706-65114",
+      "type": "mark-done",
+      "reminderId": "1775942696714-48281",
+      "topicId": "1775942696713-85474"
+    },
+    {
+      "userId": "1775942696706-65114",
+      "type": "mark-topic-done",
+      "topicId": "1775942696713-85474",
+      "previousLastStudiedAt": "2026-04-11T21:25:34.676Z",
+      "previousNextReviewDate": "2026-04-14T21:25:34.676Z",
+      "previousStatus": "Good",
+      "previousRetention": 82,
+      "studyLogId": "1775971581982-6960"
+    },
+    {
+      "userId": "1776010560481-27032",
+      "type": "mark-topic-done",
+      "topicId": "1776010560492-4545",
+      "previousLastStudiedAt": "2026-04-10T16:16:00.492Z",
+      "previousNextReviewDate": "2026-04-11T16:16:00.492Z",
+      "previousStatus": "Good",
+      "previousRetention": 82,
+      "studyLogId": "1776010690392-83085"
+    },
+    {
+      "userId": "1776010560481-27032",
+      "type": "mark-done",
+      "reminderId": "1776010560495-9611",
+      "topicId": "1776010560492-42250"
+    }
+  ]
+}
