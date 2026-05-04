@@ -6,6 +6,7 @@ const nav = [
   { label: 'Dashboard', path: '/' },
   { label: 'My Topics', path: '/topics' },
   { label: 'Reminders', path: '/reminders' },
+  { label: 'Profile', path: '/members' },
 ];
 
 export default function Navbar() {

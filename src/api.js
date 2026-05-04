@@ -53,6 +53,12 @@ export const api = {
   reminders() {
     return request('/reminders');
   },
+  teamMembers() {
+    return request('/team-members');
+  },
+  teamMember(id) {
+    return request(`/team-members/${id}`);
+  },
   markReminderDone(id) {
     return request(`/reminders/${id}/done`, { method: 'POST' });
   },

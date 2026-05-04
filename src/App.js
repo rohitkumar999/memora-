@@ -6,6 +6,8 @@ import Register from './pages/Register';
 import Dashboard from './pages/Dashboard';
 import Topics from './pages/Topics';
 import Reminders from './pages/Reminders';
+import TeamMembers from './pages/TeamMembers';
+import TeamMemberDetail from './pages/TeamMemberDetail';
 import Navbar from './components/Navbar';
 
 function PrivateRoute({ children }) {
@@ -25,6 +27,8 @@ function AppRoutes() {
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
         <Route path="/" element={<PrivateRoute><Dashboard /></PrivateRoute>} />
+        <Route path="/members" element={<PrivateRoute><TeamMembers /></PrivateRoute>} />
+        <Route path="/members/:id" element={<PrivateRoute><TeamMemberDetail /></PrivateRoute>} />
         <Route path="/topics" element={<PrivateRoute><Topics /></PrivateRoute>} />
         <Route path="/reminders" element={<PrivateRoute><Reminders /></PrivateRoute>} />
         <Route path="*" element={<Navigate to="/" />} />

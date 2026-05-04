@@ -81,7 +81,6 @@ export default function Dashboard() {
           </div>
         ))}
       </div>
-
       <div style={styles.chartsRow}>
         <div style={styles.chartCard}>
           <h3 style={styles.chartTitle}>Forgetting Curve (Ebbinghaus)</h3>
@@ -241,6 +240,10 @@ const styles = {
   statCard: { background: '#fff', border: '1px solid #e8eaed', borderRadius: 12, padding: '20px 24px' },
   statLabel: { margin: 0, fontSize: 13, color: '#888' },
   statValue: { margin: '6px 0 0', fontSize: 28, fontWeight: 600, color: '#1a1a2e' },
+  membersBtn: {
+    display: 'inline-block', padding: '10px 16px', borderRadius: 10, background: '#4361ee',
+    color: '#fff', textDecoration: 'none', fontWeight: 600, fontSize: 14, whiteSpace: 'nowrap',
+  },
   chartsRow: { display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 20, marginBottom: 24 },
   chartCard: { background: '#fff', border: '1px solid #e8eaed', borderRadius: 12, padding: '20px 24px' },
   chartTitle: { margin: 0, fontSize: 15, fontWeight: 600, color: '#1a1a2e' },
